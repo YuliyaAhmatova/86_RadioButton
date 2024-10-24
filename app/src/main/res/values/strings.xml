@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">86_RadioButton(1)</string>
+    <string name="title">Я историк</string>
+    <string name="start">Начать</string>
+    <string name="first_question">После какого события Петр I начал поэтапно упразднять стрелецкое войско?</string>
+    <string name="first_answer_first_question">Первый Азовский поход (1695 г.)</string>
+    <string name="second_answer_first_question">Поражение под Нарвой (1700 г.)</string>
+    <string name="third_answer_first_question">Стрелецкий бунт (1698 г.)</string>
+    <string name="second_question">Основателем династии московских князей был сын Александра Невского - Даниил Александрович. В каком году он получил в удел Москву и прилегающие к ней земли?</string>
+    <string name="first_answer_second_question">1272 г</string>
+    <string name="second_answer_second_question">1276 г.</string>
+    <string name="third_answer_second_question">1270 г.</string>
+    <string name="third_question">Родовые владения бояр на Руси назывались:</string>
+    <string name="first_answer_third_question">уделы</string>
+    <string name="second_answer_third_question">вотчины</string>
+    <string name="third_answer_third_question">кормления</string>
+    <string name="four_question">"Славянскими апостолами" называют:</string>
+    <string name="first_answer_four_question">первых русских святых Бориса и Глеба</string>
+    <string name="second_answer_four_question">монахов-летописцев Нестора и Никона</string>
+    <string name="third_answer_four_question">братьев-просветителей Кирилла и Мефодия</string>
+    <string name="five_question">Среди первых московских князей идея политики деспотической централизации власти принадлежала:</string>
+    <string name="first_answer_five_question">Ивану Калите</string>
+    <string name="second_answer_five_question">Семену Гордому</string>
+    <string name="third_answer_five_question">Ивану Красному</string>
+
+</resources>
